@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "YlUO1OHgBrs4eWLQFVj1OWS744o",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 322807,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7Lycd_waPbRgZZOfpQ-bkFMYHZ0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WwMBcNoTND4"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-18T09:30:17Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 카멘을 깨고싶은자. 나에게로.... (탬탬수련법)",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WwMBcNoTND4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WwMBcNoTND4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WwMBcNoTND4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-18T09:30:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ytW5xRBygSg5lH1Ju3-C_mUoYao",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pYlomkH_iaE"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-17T07:00:17Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 그건 왜 물어보는건데???",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pYlomkH_iaE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pYlomkH_iaE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pYlomkH_iaE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-17T07:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vJDEW1YYgQMMVEdy07D9no_Y40Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t3VVMV_8TDQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-15T09:03:49Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린／10월 1주차 하이라이트! 】 -10월 1주차에 있었던 핫클립들을 모아놓은 주간핫클립!",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t3VVMV_8TDQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t3VVMV_8TDQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t3VVMV_8TDQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-15T09:03:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hMAK84J7ZBNtRAY_uOQuXGGwEAo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tQD9NK2Q3uM"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-09T07:30:11Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린／9월 4주차 하이라이트! 】 -9월 4주차에 있었던 핫클립들을 모아놓은 주간핫클립!",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tQD9NK2Q3uM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tQD9NK2Q3uM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tQD9NK2Q3uM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-09T07:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_m-PAVX2b240WM53Kb2HPXKYOjk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_SwosX5VtX0"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-14T09:56:08Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 게임이 날 무시하잖아 시즌2 ............. 왜 하늘은...",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_SwosX5VtX0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_SwosX5VtX0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_SwosX5VtX0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-14T09:56:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L4UytRbUFs7T8XlEiv0ALDunkwE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d5ncu2dJ5ao"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-07T10:48:18Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 너 없으면 망해 돌아와 뚜띠야!!!!!!!!!!",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d5ncu2dJ5ao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d5ncu2dJ5ao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d5ncu2dJ5ao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-07T10:48:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WctNe3K7Q34tRq5Ks9As15UHo1I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-OPIY50hFMM"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-10T08:30:00Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 진짜 근들갑은 ,,,, ㄲ ㅑㅑㅑㅑㅑㅑㅑㅑㅑㅑㅑ",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-OPIY50hFMM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-OPIY50hFMM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-OPIY50hFMM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-10T08:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hNfpXspV3_ZIdedZOISSPxupnV0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GO6Rw-Q88O4"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-11T10:00:12Z",
+                "channelId": "UCTYNOog4xiq-rs2EaSmTnJw",
+                "title": "【 2023.10.10 (1) / 저스트채팅 (결혼식 썰) 】 - 탬탬버린 다시보기",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 탬탬의 생방송 (Live Broadcasting!) 트위치TV - https://www.twitch.tv/2chamcham2.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GO6Rw-Q88O4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GO6Rw-Q88O4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GO6Rw-Q88O4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린 다시보기",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-11T10:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "o7byizlHnDtS32ApiXmtfL6T6vI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hzj4mRvGvgA"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-30T09:38:35Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 진우야 지금 유니가 일본어를 잘한다고 일본인 같다는 말을 하는 거니 유니가 일본어를 잘하긴 하지만 유니콘 나라에서 온 유니콘 사람이야",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hzj4mRvGvgA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hzj4mRvGvgA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hzj4mRvGvgA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-30T09:38:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PPV5B2sUtIYjXrdtVuZim4Ls_to",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vQHMNvq_CyI"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-23T08:45:02Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 우리집 고양이 이름은 대미안 게르슝이야 ㅎㅎ",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vQHMNvq_CyI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vQHMNvq_CyI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vQHMNvq_CyI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-23T08:45:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cXzxnorMWw51tQbCtjzEPA9g1vs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a0FZUcVyevE"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-24T07:00:01Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 극딜 할 때 숨을 못 쉬겠어요!!!!!!",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a0FZUcVyevE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a0FZUcVyevE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a0FZUcVyevE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-24T07:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JqpgcKcZLmW6JIx3UvlCgyoTw4U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1gs8Os-Jufg"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-27T08:31:38Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린／8월 3주차 하이라이트! 】 -8월 3주차에 있었던 핫클립들을 모아놓은 주간핫클립!",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1gs8Os-Jufg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1gs8Os-Jufg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1gs8Os-Jufg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-27T08:31:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W3CUdWmTsQaZDBnFXwEkK04Y6IM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u12qpcEDhlo"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-01T09:15:03Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린／9월 3주차 하이라이트! 】 -9월 3주차에 있었던 핫클립들을 모아놓은 주간핫클립!",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u12qpcEDhlo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u12qpcEDhlo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u12qpcEDhlo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-01T09:15:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3dRT7ed70LjSsxMqDN8L4iA3UuA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PnVmE9baSgQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-24T10:14:20Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린／9월 2주차 하이라이트! 】 -9월 2주차에 있었던 핫클립들을 모아놓은 주간핫클립!",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PnVmE9baSgQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PnVmE9baSgQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PnVmE9baSgQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-24T10:14:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kurslfdGQEje8FZpFB42KjaH_yI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Vss_0BhMzUU"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-29T09:57:01Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 왜 저 왕따시키세요 ㅠㅠ 쓸모있는 사람이 될게요 ㅠㅠ",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vss_0BhMzUU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vss_0BhMzUU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vss_0BhMzUU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-29T09:57:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GxDxgSq7Qm5HBB1VUo0uHPiiMlg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qq7_EeZnrvk"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-01T10:00:13Z",
+                "channelId": "UCTYNOog4xiq-rs2EaSmTnJw",
+                "title": "【 2023.09.28 / 구스구스덕 (w 감블러, 강지, 금사향, 김남봉, 끠끼, 나나양, 마뫄, 순당무, 이춘향, 치킨쿤, 코렛트) 】 - 탬탬버린 다시보기",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 탬탬의 생방송 (Live Broadcasting!) 트위치TV - https://www.twitch.tv/2chamcham2.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qq7_EeZnrvk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qq7_EeZnrvk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qq7_EeZnrvk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린 다시보기",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-01T10:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XzeawVUN3CbOIjlsV9Z93gfDLk8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qcFESilztFk"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-30T07:59:41Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린／7월 3주차 하이라이트! 】 - 7월 3주차에 있었던 핫클립들을 모아놓은 주간핫클립!",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qcFESilztFk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qcFESilztFk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qcFESilztFk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-30T07:59:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HNGDQZ3xH6K2lUQNGsVJFfqKKhs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GqYFce5Z6Bk"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-28T07:00:09Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 메이플 딸깍 사냥 매드무비 찾아보기",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GqYFce5Z6Bk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GqYFce5Z6Bk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GqYFce5Z6Bk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-28T07:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bX-MGk_aBGIBNUuFYjzb3_7D-Yc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MnxugyNP4VY"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T09:24:18Z",
+                "channelId": "UCvmHDocKuL6MVx1qRgqLV9g",
+                "title": "[코렛트] 탬탬버린은 과연 어떤 삶을 사는걸까?",
+                "description": "코튜브 구독하기 : https://goo.gl/jUCJWT 트위치 방송국 : https://www.twitch.tv/collet11 코렛트 네이버 펜카페 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MnxugyNP4VY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MnxugyNP4VY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MnxugyNP4VY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "코렛트YouTube",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T09:24:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dnM_av03XCqKQjyzDhs_RTGYFYs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mPqGK9gqB7I"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-25T10:18:19Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 어 바로 눈앞에 있었네 버려야겠다ㅋㅋ",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mPqGK9gqB7I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mPqGK9gqB7I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mPqGK9gqB7I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-25T10:18:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1CU8sPmC6FKi0AFzYaXADC5zCqk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rcUGu2lKBwI"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-09T05:00:22Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 인싸들이 많은 현실 뒷풀이 다녀온 썰",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rcUGu2lKBwI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rcUGu2lKBwI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rcUGu2lKBwI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-09T05:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sfTKGRqA3t32Pu67--xsuouf_hk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MS_24c2ZlN0"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-30T07:38:18Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 진우야 진짜 쓰레기같고 잘어울려",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MS_24c2ZlN0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MS_24c2ZlN0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MS_24c2ZlN0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-30T07:38:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "R_vDQhafB1eUJP2w1oMl48gsaQg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X_RHi0kZC-4"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-20T07:57:28Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 비염이라 그런거야 나 맵찔이 아니야",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X_RHi0kZC-4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X_RHi0kZC-4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X_RHi0kZC-4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-20T07:57:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BaBi_iciMR-GW5fa10QTpqfrXCM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X1vVbFoCaOU"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-18T23:07:03Z",
+                "channelId": "UCt6yxtrzWq7m8fgA0-rqbdg",
+                "title": "[2023/10/18 로스트아크 (LOSTARK) - 삼식, 탬탬버린, 코렛트]-이춘향 다시보기",
+                "description": "휴 그래도 깨긴 하는구나! ↓ 이춘향에 대해서 조금 더 알 수 있는 링크 ▷이춘향 유튜브 https://www.youtube.com/@leechunhyang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X1vVbFoCaOU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X1vVbFoCaOU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X1vVbFoCaOU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "이춘향 다시보기",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-18T23:07:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kMsoPgzlZzJqfsgbw1h-OeMVGvY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nDWMXOQ8Kp4"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-04T08:13:32Z",
+                "channelId": "UCCA8UWUW80iHqK9ymdjRwPg",
+                "title": "【 탬탬버린 】 - 어떡해 너무 무서워ㅠㅠㅠㅠ다죽여ㅠㅠㅠㅠㅠ",
+                "description": "유튜브 구독하기 【 https://goo.gl/q6njeN 】 ▷ 썸네일 - 새우 ▷ 탬탬버린의 생방송 (Live Broadcasting!) 트위치TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nDWMXOQ8Kp4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nDWMXOQ8Kp4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nDWMXOQ8Kp4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탬탬버린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-04T08:13:32Z"
+            }
+        }
+    ]
+}

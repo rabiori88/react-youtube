@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "84Ndh4WB6L2odu5iFcBgcDGCH28",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 6112,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-KuFJPBvmS6BKN_hGNB2PpkAECA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KTNarUXEJE4"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-18T18:40:22Z",
+                "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+                "title": "LIVE: NBC News NOW - Oct. 19",
+                "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KTNarUXEJE4/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KTNarUXEJE4/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KTNarUXEJE4/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NBC News",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-18T18:40:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Xu_dmvfsvZpEpQZZMsJAoQuYKeI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XKjL6IF2d1s"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-18T09:47:18Z",
+                "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+                "title": "Israel-Hamas war updates, House Speaker race update &amp; more top stories | LiveNOW from FOX",
+                "description": "A large group of Pro-Palestinian protesters is gathered at the U.S. Capitol to demand a ceasefire in Gaza, as the war between ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XKjL6IF2d1s/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XKjL6IF2d1s/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XKjL6IF2d1s/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LiveNOW from FOX",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-18T09:47:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RqUWo3OwPT5ZTdLg9M4m574gYxk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0cJRKwdW3bA"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T01:01:55Z",
+                "channelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
+                "title": "Israel Hamas War LIVE | जंग से जुड़ी बड़ी खबरें LIVE | Top Big Headlines | Latest News Breaking News",
+                "description": "Israel Hamas War LIVE | जंग से जुड़ी बड़ी खबरें LIVE | Top Big Headlines | Latest News Breaking News ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0cJRKwdW3bA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0cJRKwdW3bA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0cJRKwdW3bA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV9 Bharatvarsh",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T01:01:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jvOEnIYxE1bSmsRS6j4eN_vF4pM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7twkERJFogA"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-16T16:50:28Z",
+                "channelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
+                "title": "Israel-Gaza Conflict Live: ‘Grave Mistake’ Warning To Hamas Militants After Missile Attack",
+                "description": "Israel-Gaza Conflict Live: Israel issues 'Grave Mistake' warning to Hamas, says 'Ready for War' with militants after Gaza launches ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7twkERJFogA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7twkERJFogA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7twkERJFogA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TIMES NOW",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-16T16:50:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZI9Djx7AAVWb6Gqn5YeHIW2G2SE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nlHJ7EHnQB4"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T03:04:29Z",
+                "channelId": "UC7wXt18f2iA3EDXeqAVuKng",
+                "title": "मुस्लिम देशों पर भारी पड़ा भारत ? LIVE | Israel-Hamas War News Live Updates | Palestine | PM Modi",
+                "description": "मुस्लिम देशों पर भारी पड़ा भारत ? LIVE | Israel-Hamas War News Live Updates | Palestine | PM Modi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nlHJ7EHnQB4/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nlHJ7EHnQB4/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nlHJ7EHnQB4/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Republic Bharat",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T03:04:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_mIJ2a1hUbYFytmkHWGHJY8DGOk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OOtxXPaQvoM"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-16T13:40:58Z",
+                "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+                "title": "LIVE: Latest News Headlines and Events l ABC News Live",
+                "description": "breakingnews #livenews #abcnews #news ABC News Live brings you 24/7 coverage of the latest news headlines and events ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OOtxXPaQvoM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OOtxXPaQvoM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OOtxXPaQvoM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ABC News",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-08-16T13:40:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BCBaD0i6_cEdl9n6KxU3anKM4GI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j24DS1RM5Lk"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T00:02:35Z",
+                "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+                "title": "Israel-Hamas War News Live Updates: इजरायल पर टूट पड़े मुस्लिम देश, भारत करेगा हिसाब!| Palestine",
+                "description": "ईरान के सर्वोच्च नेता अली खामेनेई ने मंगलवार को कहा कि अगर इजरायल ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j24DS1RM5Lk/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j24DS1RM5Lk/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j24DS1RM5Lk/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zee News",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T00:02:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y2cRGNuVpADHrCjlJeRwY4OEGHM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OuGyrG8bUTc"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-18T13:54:25Z",
+                "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+                "title": "Israel-Palestine War LIVE: Iran warns Israel of possible pre-emptive action, may join war with Hamas",
+                "description": "Iran warned Israel of escalation if it failed to end aggressions against Palestinians, with its foreign minister saying other parties in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OuGyrG8bUTc/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OuGyrG8bUTc/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OuGyrG8bUTc/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WION",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-18T13:54:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZwFe9fnd5wiSxjRm-1ewOVP8EWw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oQMdf4zgwaA"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T00:15:44Z",
+                "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+                "title": "Big News LIVE: देखिए बड़ी खबरें फटाफट अंदाज में | Headlines Breaking | Top 100 News | Top 50 | Modi",
+                "description": "Fatafat News LIVE: देखिए बड़ी खबरें फटाफट अंदाज में | Big News | Headlines Breaking | Top 100 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oQMdf4zgwaA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oQMdf4zgwaA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oQMdf4zgwaA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zee News",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T00:15:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_FNHE1Sa57ZygHgIXwH07uLhp68",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4c2zfiuvieY"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T02:35:08Z",
+                "channelId": "UCP0uG-mcMImgKnJz-VjJZmQ",
+                "title": "Manorama News Conclave 2023 Live | India: The Future Story | Smriti Irani | DK Shivakumar",
+                "description": "ManoramanewsConclave2023, #IndiaTheFutureStory #manoramanewsconclave #Manoramanews Manorama News conclave ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4c2zfiuvieY/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4c2zfiuvieY/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4c2zfiuvieY/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Manorama News",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T02:35:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "I6p3GqUjPxBs3BjGkwSa6MmOlEQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6vs1ucmsiiU"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T03:26:02Z",
+                "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+                "title": "Rishi Sunak Israel Visit LIVE: ऋषि सुनक आज जाएंगे इजरायल | Israel-Hamas War | Biden | Hamas | Gaza",
+                "description": "इजरायल-हमास की जंग का आज 13वां दिन है. इस जंग में इजरायल और गाजा में ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6vs1ucmsiiU/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6vs1ucmsiiU/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6vs1ucmsiiU/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zee News",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T03:26:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jQ11l_RwoGa3ssAkYM4PjtZA_xA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uss8q91kMyM"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T01:21:02Z",
+                "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+                "title": "Morning Top 100 News LIVE: Anjana Om Kashyap के साथ देखिए 100 बड़ी खबर | Aaj Tak LIVE News",
+                "description": "हमास के खिलाफ हमले का समर्थन कर अमेरिका लौटे बाइडेन, बोले- इजरायल ने ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uss8q91kMyM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uss8q91kMyM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uss8q91kMyM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Aaj Tak",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T01:21:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l3rC61tk--V4OPqnYAeeygZUCwM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DKr72G5yNvI"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T05:41:45Z",
+                "channelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
+                "title": "Israel-Hamas War Live News: Arab देशों से America के संबंध खत्म? | Biden | World War 3 | America",
+                "description": "Israel-Hamas War Live News: Arab देशों से America के संबंध खत्म? | Biden | World War 3 | America ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DKr72G5yNvI/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DKr72G5yNvI/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DKr72G5yNvI/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV9 Bharatvarsh",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T05:41:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "u_Vw3uaUnWTqD-K_YweN9nlorxY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pgb5saVkqQc"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-18T17:01:18Z",
+                "channelId": "UCPP3etACgdUWvizcES1dJ8Q",
+                "title": "Today Breaking News LIVE : आज 19 अक्टूबर 2023 के मुख्य समाचार | Iran | Israel Hamas War | Biden | US",
+                "description": "Today Breaking News LIVE : आज 19 अक्टूबर 2023 के मुख्य समाचार | Iran | Israel Hamas War | Biden | US ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pgb5saVkqQc/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pgb5saVkqQc/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pgb5saVkqQc/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "News18 India",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-18T17:01:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FOa1U8ZzkuhBAmRsB-9tC0y2Tmg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-CRzpExAA2w"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-18T14:55:36Z",
+                "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+                "title": "AO VIVO: Acompanhe as principais notícias do dia na Record News",
+                "description": "Inscreva-se no canal da Record News no YouTube: http://www.youtube.com/recordnews ACOMPANHE A RECORD NEWS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-CRzpExAA2w/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-CRzpExAA2w/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-CRzpExAA2w/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Record News",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-18T14:55:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PPrfl-A0vruxkoKc2_UchDk5KFA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AwSMcfrz2wU"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T03:56:24Z",
+                "channelId": "UCPP3etACgdUWvizcES1dJ8Q",
+                "title": "🔴Israel Hamas War News Live : Gaza में घुसा इज़राइल का खूंखार कमांडो  | Biden | Netanyahu | Palestine",
+                "description": "Israel Hamas War News Live : Gaza में घुसा इज़राइल का खूंखार कमांडो | Biden | Netanyahu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AwSMcfrz2wU/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AwSMcfrz2wU/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AwSMcfrz2wU/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "News18 India",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T03:56:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "U31ZUDTVJVVFpzHYgMkC1-xm6p0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HP67K6wVRdw"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-18T22:01:31Z",
+                "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+                "title": "Watch Breakfast Live with Kay Burley: Rishi Sunak visiting Israel to &#39;avoid further escalation&#39;",
+                "description": "Join Kay Burley on Breakfast this morning as Prime Minister Rishi Sunak will arrive in Israel, commencing a two-day trip to the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HP67K6wVRdw/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HP67K6wVRdw/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HP67K6wVRdw/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sky News",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-18T22:01:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GCic_pAPUsbsTmZSALOngu7qKPM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mhcZI05PsKA"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-18T06:59:07Z",
+                "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+                "title": "Israel-Palestine War LIVE: US sees no deepening Iran engagement in Israel-Hamas war | WION LIVE",
+                "description": "Israel-Palestine War LIVE: US sees no deepening Iran engagement in Israel-Hamas war | WION LIVE#gaza #israel #wion About ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mhcZI05PsKA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mhcZI05PsKA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mhcZI05PsKA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WION",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-18T06:59:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oMte26OTnicRCQzl2Y3ZxxnqNFU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B3LN9gJbKH8"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T03:42:06Z",
+                "channelId": "UC_2irx_BQR7RsBKmUV9fePQ",
+                "title": "🔴High Court Judgment LIVE Updates | ABN Telugu",
+                "description": "High Court Judgment LIVE Updates | ABN Telugu #aphighcourt #chandrababu #tdp #cbn WATCH ABN LIVE HERE: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B3LN9gJbKH8/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B3LN9gJbKH8/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B3LN9gJbKH8/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ABN Telugu ",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T03:42:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tyRbXvEYZGM9kbnk75cRALlJ-EE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L0RktSIM980"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-20T18:36:26Z",
+                "channelId": "UCumtYpCY26F6Jr3satUgMvA",
+                "title": "NTV Telugu News LIVE | Ntv Live",
+                "description": "ntvtelugu #ntvlive #ntvnews #ntv For more latest updates on the news : ▻ Subscribe to NTV News Channel: http://goo.gl/75PJ6m ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L0RktSIM980/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L0RktSIM980/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L0RktSIM980/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NTV Telugu",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-04-20T18:36:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7m3hOanrIj9ABaI9EwNLxb4mWfo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cQypqaMdTxM"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T05:55:23Z",
+                "channelId": "UCHCR4UFsGwd_VcDa0-a4haw",
+                "title": "ISRAEL-PALESTINE CONFLICT| ইজরায়েলকে হামাসের নতুন শর্ত | ISRAEL | GAZA WAR | BANGLA NEWS",
+                "description": "ISRAEL-PALESTINE CONFLICT| ইজরায়েলকে হামাসের নতুন শর্ত | ISRAEL | GAZA WAR | BANGLA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cQypqaMdTxM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cQypqaMdTxM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cQypqaMdTxM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV9 Bangla",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T05:55:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cVOf93NQmFPua1PP_EsdoWzuW64",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Om9-GkZdCNI"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T05:31:06Z",
+                "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+                "title": "Gaza Hospital Attack LIVE News | Gaza LIVE | Israel Vs Palestine Conflict Live Day 13 Updates | N18L",
+                "description": "Gaza Hospital Attack LIVE News | Gaza LIVE | Israel Vs Palestine Conflict Live Day 13 Updates | N18L US President Joe Biden ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Om9-GkZdCNI/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Om9-GkZdCNI/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Om9-GkZdCNI/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN-News18",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T05:31:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c4xikjCBi5CMcYwXrLZ76jtAcl8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S9EarbpoOjw"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T04:26:34Z",
+                "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+                "title": "Rajasthan Congress release first list LIVE: Ashok Gehlot Vs Sachin Pilot | Assembly Election 2023",
+                "description": "Rajasthan Election 2023: कांग्रेस संसदीय दल की अध्यक्ष सोनिया गांधी और पूर्व ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S9EarbpoOjw/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S9EarbpoOjw/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S9EarbpoOjw/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zee News",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T04:26:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TbJ379JfPYpuTQ5930rg7eg9Y1M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CKpWStyoRwA"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T02:53:28Z",
+                "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+                "title": "Israel vs Hamas Live Update | Gaza Under Attack | Israel VS Palestine News | Israel Army | N18L",
+                "description": "Israel vs Hamas Live Update | Gaza Under Attack | Israel VS Palestine News | Israel Army | N18L Israel-Hamas live news updates: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CKpWStyoRwA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CKpWStyoRwA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CKpWStyoRwA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN-News18",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-19T02:53:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ELNrNMC8LKilgFM_5zRFDd1rdMo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_eGJ7_R5pXA"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-17T02:26:11Z",
+                "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+                "title": "Israel Army vs Hamas | Israel vs Palestine Live Update | Israel News Live | Gaza Under Attack | N18L",
+                "description": "Israel Army vs Hamas | Israel vs Palestine Live Update | Israel News Live | Gaza Under Attack | N18L Biden to visit Israel on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_eGJ7_R5pXA/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_eGJ7_R5pXA/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_eGJ7_R5pXA/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN-News18",
+                "liveBroadcastContent": "live",
+                "publishTime": "2023-10-17T02:26:11Z"
+            }
+        }
+    ]
+}
