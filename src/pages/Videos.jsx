@@ -14,7 +14,7 @@ export default function Videos() {
         error,
         data: videos,
     } = useQuery(
-        ['list', keyword] , ()=> youtube.search(keyword));
+        ['list', keyword] , ()=> youtube.search(keyword), {staleTime: 1000 * 60});
 
     return ( 
         <div>

@@ -9,6 +9,12 @@ export default class FakeYoutube {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostTrend();
   }
 
+  async channelImageURL(id) {
+    return axios
+      .get(`/data/channel.json`)
+      .then(res => res.data.items[0].snippet.thumbnails.default.url);
+  }
+
   async #searchByKeyword() {
     console.log("searchByKeyword");
     return axios
