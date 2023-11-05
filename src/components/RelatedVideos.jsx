@@ -11,16 +11,15 @@ export default function RelatedVideos({channelId}) {
 
   return (
     <>
-    <div>
-            
-            {isLoading && <p>Loading...</p> }
-            {error && <p>Something is wrong</p>}
-            {videos && 
-              <ul>
-                {
-                    videos.map(video => <VideoCard key={video.id} video={video} type='list' /> ) 
-                }
-              </ul>}
+    <div>           
+        {isLoading && <p>Loading...</p> }
+        {error && <p>Something is wrong</p>}
+        {videos && 
+          <ul>
+            {
+              videos.map(video => <VideoCard key={video.id} video={video} type='list' /> ) 
+            }
+          </ul>}
         </div>
     </>
     
